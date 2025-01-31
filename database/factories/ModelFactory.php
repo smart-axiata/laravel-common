@@ -1,6 +1,6 @@
 <?php
 
-namespace l3043y\Common\Database\Factories;
+namespace SmartAxiata\Common\Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
 

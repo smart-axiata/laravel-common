@@ -1,6 +1,6 @@
 <?php
 
-namespace l3043y\Common\Data;
+namespace SmartAxiata\Common\Data;
 
 use GuzzleHttp\Psr7\Response;
 use Illuminate\Database\Query\Builder;

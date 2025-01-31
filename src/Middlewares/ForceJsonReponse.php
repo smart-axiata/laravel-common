@@ -1,6 +1,6 @@
 <?php
 
-namespace l3043y\Common\Middlewares;
+namespace SmartAxiata\Common\Middlewares;
 
 use Closure;
 use Illuminate\Http\Request;

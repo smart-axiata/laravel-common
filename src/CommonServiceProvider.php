@@ -1,6 +1,6 @@
 <?php
 
-namespace l3043y\Common;
+namespace SmartAxiata\Common;
 
 use Spatie\LaravelPackageTools\Commands\InstallCommand;
 use Spatie\LaravelPackageTools\Package;
